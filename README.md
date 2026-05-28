@@ -59,13 +59,13 @@ O foco principal do projeto é oferecer uma interface moderna, responsiva e obje
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/waldaotto/portifolio.git
 ```
 
 ### Acesse a pasta do projeto
 
 ```bash
-cd seurepositorio
+cd portifolio
 ```
 
 ### Execute
