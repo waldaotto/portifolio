@@ -45,8 +45,67 @@ O foco principal do projeto é oferecer uma interface moderna, responsiva e obje
 ```bash
 📦 portfolio
  ┣ 📂 assets
- ┃ ┣ 📂 images
+ ┃ ┣ 📂 img
  ┃ ┗ 📂 font-awesome
  ┣ 📜 style.css
  ┣ 📜 index.html
  ┗ 📜 README.md
+```
+
+---
+
+## ⚙ Como executar o projeto
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/seuusuario/seurepositorio.git
+```
+
+### Acesse a pasta do projeto
+
+```bash
+cd seurepositorio
+```
+
+### Execute
+
+Abra o arquivo `index.html` no navegador.
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido para funcionar corretamente em:
+
+- Desktop
+- Tablet
+- Smartphones
+
+---
+
+## 🎯 Melhorias futuras
+
+- Sistema de tema dark/light
+- Integração com banco de dados
+- Área administrativa
+- Animações avançadas
+- Integração com APIs
+
+---
+
+## 👨‍💻 Autor
+
+**Waldair Otto Menegassi**
+
+### Contato
+
+- GitHub
+- LinkedIn
+- Email
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
