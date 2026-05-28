@@ -6,7 +6,7 @@ Projeto desenvolvido para apresentar minhas habilidades, tecnologias e projetos 
 
 ## 📸 Preview
 
-![preview](./assets/preview.jpg)
+![preview](./assets/img/preview.png)
 
 ---
 
