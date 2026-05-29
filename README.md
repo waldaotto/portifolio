@@ -87,10 +87,8 @@ O projeto foi desenvolvido para funcionar corretamente em:
 ## 🎯 Melhorias futuras
 
 - Sistema de tema dark/light
-- Integração com banco de dados
-- Área administrativa
 - Animações avançadas
-- Integração com APIs
+
 
 ---
 
@@ -100,9 +98,9 @@ O projeto foi desenvolvido para funcionar corretamente em:
 
 ### Contato
 
-- GitHub
-- LinkedIn
-- Email
+- [GitHub](https://github.com/waldaotto)
+- [LinkedIn](www.linkedin.com/in/waldair-otto-menegassi-47b0012b7)
+- [Email](mailto:waldaotto@gmail.com)
 
 ---
 
