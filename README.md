@@ -99,7 +99,7 @@ O projeto foi desenvolvido para funcionar corretamente em:
 ### Contato
 
 - [GitHub](https://github.com/waldaotto)
-- [LinkedIn](www.linkedin.com/in/waldair-otto-menegassi-47b0012b7)
+- [LinkedIn](linkedin.com/in/waldair-otto-menegassi-47b0012b7)
 - [Email](mailto:waldaotto@gmail.com)
 
 ---
