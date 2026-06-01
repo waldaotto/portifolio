@@ -1,4 +1,4 @@
-# 🚀 Portfólio Dev
+# 🚀 [Portifolio dev](https://waldaotto.github.io/portifolio/)
 
 Projeto desenvolvido para apresentar minhas habilidades, tecnologias e projetos como desenvolvedor.
 
@@ -9,6 +9,8 @@ Projeto desenvolvido para apresentar minhas habilidades, tecnologias e projetos 
 ![preview](./assets/img/preview.png)
 
 ---
+
+[CLIQUE AQUI](https://waldaotto.github.io/portifolio/) para ver o projeto!   
 
 ## 📖 Sobre o projeto
 
