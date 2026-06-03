@@ -542,5 +542,48 @@ section {
         cursor:pointer;
     }
 
+    .aboutme .flex {
+        flex-direction: column;
+        gap: 1rem;
+    }
 
+    .aboutme .card-aboutme {
+        min-width: 100%;
+    }
+    .aboutme .flex .card-curso {
+        max-width: 20rem;
+        min-width: 10rem;
+        min-height: 5rem;
+    }
+
+    .aboutme .flex .card-curso .flex h3,p{
+        font-size: 1rem;
+    }
+
+
+    .aboutme .flex .flex {
+        flex-wrap: wrap;
+        flex-direction: row;
+        
+    }
+
+    
+
+
+   
+    .contact .flex div a {
+        font-size: 1.5rem;
+    
+    }
+    .contact .flex div i {
+        font-size: 1.5rem;
+    }
+
+    .contact .flex img {
+        max-width: 8rem;
+    }
+
+    .contact .flex:nth-child(n+3) i {
+        font-size: 3rem;
+    }
 }
