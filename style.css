@@ -512,6 +512,7 @@ section {
         all: unset;
 
         display: flex;
+        flex-wrap: nowrap;
         margin-left: auto;
         flex-direction: column;
         
@@ -525,12 +526,14 @@ section {
         transition: left 0.4 ease;
 
         padding: var(--padding);
+        display: hidden;
 
         z-index: 1000000000;
     }
 
     .nav.open {
         left: 40vw;
+        display: flex;
     }
 
     .nav a:hover {
@@ -548,7 +551,7 @@ section {
     }
 
     .aboutme .card-aboutme {
-        min-width: 100%;
+        min-width: 80%;
     }
     .aboutme .flex .card-curso {
         max-width: 20rem;
@@ -586,4 +589,67 @@ section {
     .contact .flex:nth-child(n+3) i {
         font-size: 3rem;
     }
+}
+
+@media (max-width:450px){
+    .home h1 {
+        font-size: 2rem;
+    }
+
+    .aboutme .card-curso {
+        max-height: 4rem;
+    }
+    .aboutme .flex .card-curso .flex h3 {
+        font-size: .9rem;
+    }
+    .aboutme .flex .card-curso .flex p {
+        font-size: .9rem;
+    }
+
+    .tecnology .flex .card2 {
+        max-width: 6rem;
+        padding: var(--padding);
+        max-height: 5rem;
+        min-height: border;
+
+    }
+    .tecnology .flex .card2 p {
+        font-size: .85rem;
+        box-sizing: border-box;
+        padding: 0px;
+        margin: 0px;
+
+
+    }
+    .tecnology .flex {
+        gap: 1rem;
+    }
+
+
+    .contact .flex{
+        max-width: 100%;
+        flex-direction: column;
+    }
+
+    .contact .flex div a {
+        font-size: 1rem;
+    }
+
+    .contact .flex div:nth-child(n+2){
+        flex-direction: row;
+    }
+    
+    .contact .flex img {
+        max-width: 5rem;
+    }
+
+
+    .footer .flex{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+   
+
 }
