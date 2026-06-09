@@ -51,6 +51,7 @@ O foco principal do projeto é oferecer uma interface moderna, responsiva e obje
  ┃ ┗ 📂 font-awesome
  ┣ 📜 style.css
  ┣ 📜 index.html
+ ┣ 📜 script.js
  ┗ 📜 README.md
 ```
 
