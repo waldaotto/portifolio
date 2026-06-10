@@ -534,6 +534,13 @@ section {
     .nav.open {
         left: 40vw;
         display: flex;
+        top: 70px;
+    }
+
+    .header.open{
+        position: fixed;
+        z-index: 10000000000000000000;
+        top: 0;
     }
 
     .nav a:hover {
