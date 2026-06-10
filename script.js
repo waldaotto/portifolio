@@ -22,3 +22,7 @@ function nav(){
     }
     
 }
+
+function portifolioWeb(){
+    window.open("https://waldaotto.github.io/portifolio/", "_blank");
+}
